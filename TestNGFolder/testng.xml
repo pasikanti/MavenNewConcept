@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+ 
+<suite name="SEcond Maven Test" verbose="1" >
+  <test name="Practice test"   >
+  
+    <packages>
+      <package name="com.test.pack1.*" />
+   </packages>
+   
+ </test>
+</suite>

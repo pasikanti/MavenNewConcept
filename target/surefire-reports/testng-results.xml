@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="58" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="58" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+      <class name="com.test.pack1.Test2">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.test.pack1.Test2@ff5b51f]" name="add" duration-ms="1" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.test.pack1.Test2@ff5b51f]" name="div" duration-ms="0" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.test.pack1.Test2@ff5b51f]" name="sub" duration-ms="1" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="multi()[pri:0, instance:com.test.pack1.Test2@ff5b51f]" name="multi" duration-ms="0" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+      </class> <!-- com.test.pack1.Test2 -->
+      <class name="com.test.pack1.Test1">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.test.pack1.Test1@1e397ed7]" name="add" duration-ms="6" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.test.pack1.Test1@1e397ed7]" name="div" duration-ms="0" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="multi()[pri:0, instance:com.test.pack1.Test1@1e397ed7]" name="multi" duration-ms="0" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.test.pack1.Test1@1e397ed7]" name="sub" duration-ms="0" started-at="2021-05-02T11:15:36 IST" finished-at="2021-05-02T11:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.test.pack1.Test1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
